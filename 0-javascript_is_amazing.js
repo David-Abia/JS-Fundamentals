@@ -1,2 +1,2 @@
 const myVar = alert("JavaScript is amazing");
-console.log(alert)
+console.log(myVar)
